@@ -6,12 +6,7 @@ Please leave a ⭐ if you like it.
 ![Chat Preview](./simple-chat.png)
 
 ## Try It Out
-You can try it out yourself in [live demo](https://projects.tijan.dev/simple-chat).
-
-If you find any **errors** ⛔, please report them to [errors@tijan.dev](mailto:errors@tijan.dev) thanks 🙏.
-
-### Ivan On Tech's Reaction 🤩
-Ivan On Tech reviewed my application as part of a 7-day Moralis programming challenge, take a look at it [here](https://youtu.be/GeHnbLVjBDM?t=1031) - watch for 3 minutes.
+If you find any **errors** ⛔, please report them to [cleancode198@gmail.com](mailto:cleancode198@gmail.com) thanks 🙏.
 
 ## Technologies
 I used [Moralis](https://moralis.io/) for storing messages, groups, users, authentication and their Web3API for getting users' token and NFT balances.
@@ -19,11 +14,11 @@ I used [Moralis](https://moralis.io/) for storing messages, groups, users, authe
 It was built with vanilla JavaScript.
 
 ## About Me
-Hi! 👋 I'm Tijan, passionate **blockchain developer** from Slovenia. Take a look at my [portfolio](https://tijan.dev).
+Hi! 👋 I'm Jin, passionate **web and blockchain developer**. Take a look at my [portfolio](https://jinkong.netlify.com).
 
-You can get in touch with me through my [website](https://tijan.dev) or contact me on [twitter](https://twitter.com/0xTijan).
+You can get in touch with me through my [website](https://jinkong.netlify.com) or contact me on [linkedin](https://linkedin.com/in/jinkong198).
 
-Do you like my work? You can support me by donating to this address: 0xC4C6A0bc6648a4F343bd86D7C48C9967530fbB48
+Do you like my work? You can support me by donating to this address: 0xf18432a6d3C6f8720227C2856dEE97B6d99357EF
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
